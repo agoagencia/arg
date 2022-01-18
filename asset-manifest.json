@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/arg/static/css/main.49594c46.css",
+    "main.js": "/arg/static/js/main.1a876a20.js",
+    "static/js/787.c488542e.chunk.js": "/arg/static/js/787.c488542e.chunk.js",
+    "static/media/silver-background-5-Best-Wallpaper.png": "/arg/static/media/silver-background-5-Best-Wallpaper.1323bf4f744c86daf28d.png",
+    "static/media/ARG negativo_Mesa de trabajo 1.png": "/arg/static/media/ARG negativo_Mesa de trabajo 1.7ab43933edbe14485fc5.png",
+    "index.html": "/arg/index.html",
+    "main.49594c46.css.map": "/arg/static/css/main.49594c46.css.map",
+    "main.1a876a20.js.map": "/arg/static/js/main.1a876a20.js.map",
+    "787.c488542e.chunk.js.map": "/arg/static/js/787.c488542e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49594c46.css",
+    "static/js/main.1a876a20.js"
+  ]
+}

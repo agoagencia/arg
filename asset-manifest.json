@@ -1,33 +1,25 @@
 {
   "files": {
-    "main.css": "/arg/static/css/main.421e51a4.css",
-    "main.js": "/arg/static/js/main.d6c3ba9a.js",
+    "main.css": "/arg/static/css/main.8cb6eb8c.css",
+    "main.js": "/arg/static/js/main.303f0ffd.js",
     "static/js/787.c488542e.chunk.js": "/arg/static/js/787.c488542e.chunk.js",
-    "static/media/b7.jpg": "/arg/static/media/b7.b1b7eabb25fab75394c9.jpg",
-    "static/media/b12.jpg": "/arg/static/media/b12.430144f2d80c52e78561.jpg",
-    "static/media/b2.jpg": "/arg/static/media/b2.3c098260adb0a861101e.jpg",
-    "static/media/b8.jpg": "/arg/static/media/b8.3c098260adb0a861101e.jpg",
-    "static/media/bp2.jpg": "/arg/static/media/bp2.3c098260adb0a861101e.jpg",
-    "static/media/silver-background-5-Best-Wallpaper.png": "/arg/static/media/silver-background-5-Best-Wallpaper.1323bf4f744c86daf28d.png",
-    "static/media/b9.jpg": "/arg/static/media/b9.1b5673e43f337281a1bd.jpg",
-    "static/media/b4.jpg": "/arg/static/media/b4.1296e23120cd3e7c35ff.jpg",
-    "static/media/bp4.jpg": "/arg/static/media/bp4.1296e23120cd3e7c35ff.jpg",
-    "static/media/b5.jpg": "/arg/static/media/b5.c7aa1d66ca863b2dc7c5.jpg",
-    "static/media/b3.jpg": "/arg/static/media/b3.ddc23f7a4f84b269251b.jpg",
-    "static/media/bp3.jpg": "/arg/static/media/bp3.ddc23f7a4f84b269251b.jpg",
-    "static/media/b1.jpg": "/arg/static/media/b1.57ca05bb57868c1ffe6c.jpg",
-    "static/media/bp1.jpg": "/arg/static/media/bp1.57ca05bb57868c1ffe6c.jpg",
-    "static/media/b6.jpg": "/arg/static/media/b6.05c83bef42dc884224c0.jpg",
-    "static/media/b11.jpg": "/arg/static/media/b11.076ba96f22dc0eac724a.jpg",
+    "static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.jpg": "/arg/static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.385383cccf011c5d7bbe.jpg",
+    "static/media/57295.jpg": "/arg/static/media/57295.a427affa1f9c32ed04c0.jpg",
+    "static/media/nuevo-metodo-mineria.jpg": "/arg/static/media/nuevo-metodo-mineria.b259d1a6a71bee5e41b3.jpg",
+    "static/media/crear-una-constructora-guia-completa.jpg": "/arg/static/media/crear-una-constructora-guia-completa.b474da9d3e06ece3b88c.jpg",
+    "static/media/construccion.jpg": "/arg/static/media/construccion.069477b1239cd95a4347.jpg",
+    "static/media/s-gruas-1024x683.jpg": "/arg/static/media/s-gruas-1024x683.390118475a3358de0d3e.jpg",
+    "static/media/materiales-construccion.jpg": "/arg/static/media/materiales-construccion.a608f4671c14a1ac8079.jpg",
+    "static/media/16225-6078073.jpg": "/arg/static/media/16225-6078073.553a5d64c59d34dff93c.jpg",
     "static/media/ARG negativo_Mesa de trabajo 1.png": "/arg/static/media/ARG negativo_Mesa de trabajo 1.7ab43933edbe14485fc5.png",
-    "static/media/b10.jpg": "/arg/static/media/b10.8c2119ebbbad78692755.jpg",
+    "static/media/ARG sin fondo-02.png": "/arg/static/media/ARG sin fondo-02.d8b99b8e41aaec63f475.png",
     "index.html": "/arg/index.html",
-    "main.421e51a4.css.map": "/arg/static/css/main.421e51a4.css.map",
-    "main.d6c3ba9a.js.map": "/arg/static/js/main.d6c3ba9a.js.map",
+    "main.8cb6eb8c.css.map": "/arg/static/css/main.8cb6eb8c.css.map",
+    "main.303f0ffd.js.map": "/arg/static/js/main.303f0ffd.js.map",
     "787.c488542e.chunk.js.map": "/arg/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.421e51a4.css",
-    "static/js/main.d6c3ba9a.js"
+    "static/css/main.8cb6eb8c.css",
+    "static/js/main.303f0ffd.js"
   ]
 }

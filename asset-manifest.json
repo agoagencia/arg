@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arg/static/css/main.8cb6eb8c.css",
-    "main.js": "/arg/static/js/main.303f0ffd.js",
+    "main.css": "/arg/static/css/main.f54a5607.css",
+    "main.js": "/arg/static/js/main.d8825966.js",
     "static/js/787.c488542e.chunk.js": "/arg/static/js/787.c488542e.chunk.js",
     "static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.jpg": "/arg/static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.385383cccf011c5d7bbe.jpg",
     "static/media/57295.jpg": "/arg/static/media/57295.a427affa1f9c32ed04c0.jpg",
@@ -14,12 +14,12 @@
     "static/media/ARG negativo_Mesa de trabajo 1.png": "/arg/static/media/ARG negativo_Mesa de trabajo 1.7ab43933edbe14485fc5.png",
     "static/media/ARG sin fondo-02.png": "/arg/static/media/ARG sin fondo-02.d8b99b8e41aaec63f475.png",
     "index.html": "/arg/index.html",
-    "main.8cb6eb8c.css.map": "/arg/static/css/main.8cb6eb8c.css.map",
-    "main.303f0ffd.js.map": "/arg/static/js/main.303f0ffd.js.map",
+    "main.f54a5607.css.map": "/arg/static/css/main.f54a5607.css.map",
+    "main.d8825966.js.map": "/arg/static/js/main.d8825966.js.map",
     "787.c488542e.chunk.js.map": "/arg/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cb6eb8c.css",
-    "static/js/main.303f0ffd.js"
+    "static/css/main.f54a5607.css",
+    "static/js/main.d8825966.js"
   ]
 }

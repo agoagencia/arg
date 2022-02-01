@@ -1,25 +1,37 @@
 {
   "files": {
-    "main.css": "/arg/static/css/main.bcc86b08.css",
-    "main.js": "/arg/static/js/main.d8825966.js",
+    "main.css": "/arg/static/css/main.5d02d67f.css",
+    "main.js": "/arg/static/js/main.2163988d.js",
     "static/js/787.c488542e.chunk.js": "/arg/static/js/787.c488542e.chunk.js",
+    "static/media/POCA-9.jpg": "/arg/static/media/POCA-9.596e473a496ff7710c94.jpg",
     "static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.jpg": "/arg/static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.385383cccf011c5d7bbe.jpg",
     "static/media/57295.jpg": "/arg/static/media/57295.a427affa1f9c32ed04c0.jpg",
     "static/media/nuevo-metodo-mineria.jpg": "/arg/static/media/nuevo-metodo-mineria.b259d1a6a71bee5e41b3.jpg",
+    "static/media/81bmXNBua6L._AC_SL1500_.jpg": "/arg/static/media/81bmXNBua6L._AC_SL1500_.5b3eb05f1aed92462ebb.jpg",
+    "static/media/DHS711Z.jpg": "/arg/static/media/DHS711Z.7531d326544c8195b55d.jpg",
     "static/media/crear-una-constructora-guia-completa.jpg": "/arg/static/media/crear-una-constructora-guia-completa.b474da9d3e06ece3b88c.jpg",
-    "static/media/construccion.jpg": "/arg/static/media/construccion.069477b1239cd95a4347.jpg",
     "static/media/s-gruas-1024x683.jpg": "/arg/static/media/s-gruas-1024x683.390118475a3358de0d3e.jpg",
+    "static/media/jga-510.jpg": "/arg/static/media/jga-510.8037cd0d94babf2d495d.jpg",
+    "static/media/25T820_1280x1280__70848.1631035046.jpg": "/arg/static/media/25T820_1280x1280__70848.1631035046.6cd9fbef71f11421eddc.jpg",
+    "static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.jpg": "/arg/static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.243a9f23a047303a506e.jpg",
     "static/media/materiales-construccion.jpg": "/arg/static/media/materiales-construccion.a608f4671c14a1ac8079.jpg",
-    "static/media/16225-6078073.jpg": "/arg/static/media/16225-6078073.553a5d64c59d34dff93c.jpg",
+    "static/media/bo5030-lijadora-rotorbital-125mm-700x675.jpg": "/arg/static/media/bo5030-lijadora-rotorbital-125mm-700x675.c3981e8c6de7ede43ec5.jpg",
+    "static/media/20987-3478205.jpg": "/arg/static/media/20987-3478205.c236e9bd623f990a2a9c.jpg",
+    "static/media/JH40C3JackHammerp001ljpg.jpg": "/arg/static/media/JH40C3JackHammerp001ljpg.cd175bd9c0f086c03732.jpg",
+    "static/media/LM2305A_12_B__29528.1633497880.jpg": "/arg/static/media/LM2305A_12_B__29528.1633497880.c1e14b9122964e8155d4.jpg",
     "static/media/ARG negativo_Mesa de trabajo 1.png": "/arg/static/media/ARG negativo_Mesa de trabajo 1.7ab43933edbe14485fc5.png",
     "static/media/ARG sin fondo-02.png": "/arg/static/media/ARG sin fondo-02.d8b99b8e41aaec63f475.png",
+    "static/media/slick.svg": "/arg/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/arg/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/arg/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/arg/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/arg/index.html",
-    "main.bcc86b08.css.map": "/arg/static/css/main.bcc86b08.css.map",
-    "main.d8825966.js.map": "/arg/static/js/main.d8825966.js.map",
+    "main.5d02d67f.css.map": "/arg/static/css/main.5d02d67f.css.map",
+    "main.2163988d.js.map": "/arg/static/js/main.2163988d.js.map",
     "787.c488542e.chunk.js.map": "/arg/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcc86b08.css",
-    "static/js/main.d8825966.js"
+    "static/css/main.5d02d67f.css",
+    "static/js/main.2163988d.js"
   ]
 }

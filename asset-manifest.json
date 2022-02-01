@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arg/static/css/main.5d02d67f.css",
-    "main.js": "/arg/static/js/main.2163988d.js",
+    "main.js": "/arg/static/js/main.a7fa168d.js",
     "static/js/787.c488542e.chunk.js": "/arg/static/js/787.c488542e.chunk.js",
     "static/media/POCA-9.jpg": "/arg/static/media/POCA-9.596e473a496ff7710c94.jpg",
     "static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.jpg": "/arg/static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.385383cccf011c5d7bbe.jpg",
@@ -27,11 +27,11 @@
     "static/media/slick.woff": "/arg/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/arg/index.html",
     "main.5d02d67f.css.map": "/arg/static/css/main.5d02d67f.css.map",
-    "main.2163988d.js.map": "/arg/static/js/main.2163988d.js.map",
+    "main.a7fa168d.js.map": "/arg/static/js/main.a7fa168d.js.map",
     "787.c488542e.chunk.js.map": "/arg/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d02d67f.css",
-    "static/js/main.2163988d.js"
+    "static/js/main.a7fa168d.js"
   ]
 }
